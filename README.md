@@ -1,1 +1,7 @@
-# trip-hackr
+![Screenshot (400)](https://user-images.githubusercontent.com/109980274/195390596-829910b0-c6e1-4a2b-aaf3-6dde06cb84ab.png)
+![Screenshot (390)](https://user-images.githubusercontent.com/109980274/195390683-a6598554-47fa-4351-b2c9-29c0d36e5856.png)
+![Screenshot (391)](https://user-images.githubusercontent.com/109980274/195390702-c288bd0b-f921-4486-88f7-6f2a69eb68c8.png)
+![Screenshot (392)](https://user-images.githubusercontent.com/109980274/195390732-416e2fa5-1040-4765-968b-44ce906ec9b3.png)
+![Screenshot (393)](https://user-images.githubusercontent.com/109980274/195390752-6d7e704e-8a91-4b57-bfd3-4d9e75638115.png)
+![Screenshot (394)](https://user-images.githubusercontent.com/109980274/195390781-ac07ffd2-9b7c-4767-81f0-707126166e95.png)
+![Screenshot (396)](https://user-images.githubusercontent.com/109980274/195390802-643a9ac8-4ad3-4b9b-af18-f2b0565e25f5.png)
